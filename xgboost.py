@@ -1,7 +1,7 @@
 # XGBoost
 
-""" When dealing with huge datasets, the speed and accuaracy makes a whole lot differance so, to make a model with
-great accuracy and speed, XGBoost comes in handy. Furthermore, XGBoost doesnot require any feature scaling 
+""" When dealing with huge datasets, the speed and accuaracy makes a whole lot difference so, to make a model with
+great accuracy and speed, XGBoost comes in handy. Furthermore, XGBoost does not require any feature scaling 
 which makes the model even simpler."""
 
 # Importing the libraries
